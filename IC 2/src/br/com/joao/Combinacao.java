@@ -1,11 +1,7 @@
 package br.com.joao;
 
 
-import java.util.Arrays;
-import static java.util.Collections.list;
-import java.util.HashMap;
 import java.util.LinkedList;
-import java.util.List;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
